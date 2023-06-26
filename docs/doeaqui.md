@@ -5,7 +5,7 @@
 🙂 _*Nicho:*_ Doacao e caridade
 🎁 _*Proposta de Valor:*_ Somos uma plataforma de doacoes que tem como objetivo conectar pessoas e organizacoes que precisam de ajuda com aqueles que desejam contribuir para causas importantes. Com nossa plataforma facil de usar, voce pode encontrar rapidamente organizacoes que operam em areas que lhe interessam e fazer doacoes com seguranca, atencao e transparencia
 🧑‍💻👩‍💻 _*Equipe:*_ Filipe Smyk e Eduardo Varela 
-🛠️ _*Recursos/Tecnologias Utilizados: Html e CSS *_
+🛠️ _*Recursos/Tecnologias Utilizados: HTML e CSS *_
 -------------------
 💡 *PMI I*
 
